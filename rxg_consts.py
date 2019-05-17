@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-class DbConsts:
-    SEARCH_LIMIT = 400
-
-
-class Node_URLs:
-    API_EM = r"/api/em"
-    API_ZB_DEVICE_ADM = r'/api/zbdeviceadm'
+class URLs:
     API_SYS_CFG = r'/api/syscfg'
-    API_ZB_MODULE_ADM = r'/api/zbmoduleadm'
-
+    API_XY = r"/api/xy"

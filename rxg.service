@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 LimitNOFILE=20000
-ExecStart=/usr/bin/python3 /home/pi/rxgv1rpi/__main__.py
+ExecStart=/usr/bin/python3 /home/pi/rxgv1/__main__.py
 Restart=always
 
 [Install]

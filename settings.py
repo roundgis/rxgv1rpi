@@ -10,10 +10,4 @@ REDIS = {
     "host": "localhost",
     "port": 21999
 }
-BIZ_DB = {
-    "path": "/home/pi/rxg_biz.db3"
-}
-LOG_DB = {
-    "path": "/home/pi/rxg_log.db3",
-    "ttl": 3*86400
-}
+
